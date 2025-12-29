@@ -29,7 +29,7 @@
 ██║ 2. C#, EntityFramework, XUnit, DotNetBenchmark, ASP.NET, Avalonia UI, Winforms, WPF, FastEndPoints,    ██║
 ██║ Razor Pages, Blazor, Xamarin, MAUI, (cannot pretty remember everything)                                ██║
 ██║ 3. HTML, CSS, JavaScript, PHP, Bootstrap, PhpMyAdmin(wtf)                                              ██║
-██║ 4. SQL Server, SQLite, PostgreSQL, i use beekeper btw | > - < |                                        ██║
+██║ 4. SQL Server, SQLite, PostgreSQL, i use beekeеper btw | > - < |                                       ██║
 ██║ 5. Figma, Canva, Blender, Photoshop, After Effects, Premier Pro, Aseprite                              ██║
 ██║ <- ... to be continued ... ->                                                                          ██║
 █████████████████████████████████████████████████████████████████████████████████████████████████████████████║
